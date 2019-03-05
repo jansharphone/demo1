@@ -11,4 +11,6 @@ public class Company {
     private String name;
 
     private String stress;
+
+    private Integer num;
 }
