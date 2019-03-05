@@ -9,4 +9,6 @@ package com.example.entity;
 public class Company {
 
     private String name;
+
+    private String stress;
 }
