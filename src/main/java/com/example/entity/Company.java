@@ -14,6 +14,8 @@ public class Company {
 
     private Integer num;
 
+    private Boolean sex;
+
     public String getName() {
         return name;
     }
