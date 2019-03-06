@@ -12,6 +12,8 @@ public class Student {
 
     private Integer age;
 
+    private String add;
+
     public String getName() {
         return name;
     }
@@ -26,5 +28,13 @@ public class Student {
 
     public void setAge(Integer age) {
         this.age = age;
+    }
+
+    public String getAdd() {
+        return add;
+    }
+
+    public void setAdd(String add) {
+        this.add = add;
     }
 }
