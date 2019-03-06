@@ -16,6 +16,14 @@ public class Company {
 
     private Boolean sex;
 
+    public Boolean getSex() {
+        return sex;
+    }
+
+    public void setSex(Boolean sex) {
+        this.sex = sex;
+    }
+
     public String getName() {
         return name;
     }
